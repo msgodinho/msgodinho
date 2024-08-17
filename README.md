@@ -1,6 +1,6 @@
 ### Olá 👋
 # Me chamo Moises e atualmente estou cursanso Sistemas de Computação pela UFF
-# Busco aprender mais e mais a cada dia, considero-me um eterno estudante.
+# Aqui atualizarei o meu progresso de aprendizado de um curso java!.
 
 <!--
 **msgodinho/msgodinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
